@@ -1,7 +1,21 @@
+#𝗜𝗿𝗮𝗻𝗦𝗹𝗼𝘁 𝗤𝗖 𝘁𝗲𝘀𝘁
+
 This is a project to go faster in QC tests for repairs like laptops ((:
 
 An open source program with Python language that will probably be updated in the future
 
-This project downloads and installs the program you want by clicking
+Download and launch the application
 
-![image](https://github.com/2xAm1r/IT-repair-program/assets/111268911/4cb728a9-0469-4f1f-909b-4b3101718ea0)
+
+
+
+
+## ScreenShot
+
+ ![image](https://github.com/2xAm1r/IT-repair-program/assets/111268911/0cb6345e-84d4-42f0-9b69-6a40c66addec)
+
+
+
+
+## Acknowledgments
+This application was developed by [2xAm1r](https://github.com/2xAm1r/)
